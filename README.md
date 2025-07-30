@@ -1,4 +1,4 @@
-# ABAI: Your terminal AI assistant 
+# tai: Your terminal AI assistant 
 
 Simple command-line chatbot framework supporting pluggable LLM APIs. I mostly work in terminals and got tired of switching back and forth to the browser just to ask something simple. This tool is a lightweight layer that connects to LLMs directly from the terminal — fast, distraction-free, and scriptable.
 
